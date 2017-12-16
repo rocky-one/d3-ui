@@ -1,0 +1,13 @@
+{
+    "presets": ["es2015","stage-2"],
+    "plugins": [
+        "transform-es2015-arrow-functions",
+        "transform-es2015-for-of",
+        "transform-es2015-modules-umd",
+        "transform-decorators-legacy"
+    ],
+    "ignore": [
+        "node_modules/",
+        "dist/"
+    ]
+}

@@ -1,0 +1,12 @@
+.tooltip-cont {
+  background-color: rgba(0,0,0,0.6);
+  &>ul{
+    padding: 8px 12px;
+  }
+  .tooltip-li{
+    height:20px;
+    line-height: 20px;
+    color:#fff;
+    display: block;
+  }
+}
